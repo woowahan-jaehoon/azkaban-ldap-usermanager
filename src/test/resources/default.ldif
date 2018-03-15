@@ -24,3 +24,9 @@ objectClass: top
 objectClass: posixGroup
 cn: svc-test
 memberUid: gauss
+
+dn: cn=ufrj-test,dc=example,dc=com
+objectClass: top
+objectClass: posixGroup
+cn: svc-test
+memberUid: bessel
